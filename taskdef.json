@@ -5,7 +5,7 @@
       "image": "<Docker_Image>",
       "essential": true,
       "portMappings": [{
-        "hostPort": 0,
+        "hostPort": 80,
         "protocol": "tcp",
         "containerPort": 80
       }]
